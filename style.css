@@ -1,0 +1,246 @@
+.btn-greenPrimaryLarge{
+    background-color: #76CC11 !important;
+    min-height: 47px !important;  
+    border-radius: 20px;
+    color: white;
+    font-size: 16px;
+    font-weight: 900;
+    padding: 10px 16px;
+    line-height: 140%;word-break: break-all;
+}
+.btn-greenPrimaryLarge:hover{
+    background-color: #6FBB17 !important;
+    min-height: 47px !important;  
+    border-radius: 20px;
+    color: white;
+}
+
+
+/* blue */
+.btn-bluePrimaryLarge{
+    background-color: #40ABFA !important;
+    min-height: 47px !important;  
+    border-radius: 20px;
+    color: white;
+    font-size: 16px;
+    font-weight: 900;
+    padding: 10px 16px;
+    line-height: 140%;word-break: break-all;
+}
+.btn-bluePrimaryLarge:hover{
+    background-color: #3B9FE7 !important;
+    min-height: 47px !important;  
+    border-radius: 20px;
+    color: white;
+}
+
+
+/* green normal primary */
+.btn-greenOutlineNormal{
+    background-color: #DFFBDF !important;
+    min-height: 36px !important;  
+    border-radius: 20px;
+    color: #76CC11;
+    font-size: 14px;
+    font-weight: 900;
+   
+    line-height: 140%;word-break: break-all;
+    border-color: #76CC11;
+}
+.btn-greenOutlineNormal:hover{
+    background-color: #76CC11 !important;
+    min-height: 36px !important;  
+    border-radius: 20px;
+    color: white;
+}
+/* blue Outline normal */
+.btn-blueOutlineNormal{
+    background-color: #DFF8FF !important;
+    min-height: 36px !important;  
+    border-radius: 20px;
+    color: #40ABFA;
+    font-size: 14px;
+    font-weight: 900;
+    line-height: 140%;word-break: break-all;
+    border-color: #40ABFA;
+}
+.btn-blueOutlineNormal:hover{
+    background-color: #40ABFA !important;
+    min-height: 36px !important;  
+    border-radius: 20px;
+    color: white;
+}
+
+/* outline large */
+.btn-greenOutlineLarge{
+    background-color: #ffffff !important;
+    min-height: 47px !important;  
+    border-radius: 20px;
+    color: #76CC11;
+    font-size: 16px;
+    font-weight: 900;
+    padding: 10px 16px;
+    line-height: 140%;word-break: break-all;
+    border-color: #76CC11;
+}
+.btn-greenOutlineLarge:hover{
+    background-color: #76CC11 !important;
+    min-height: 47px !important;  
+    border-radius: 20px;
+    color: white;
+}
+
+
+/* blue */
+.btn-blueOutlineLarge{
+    background-color: #ffffff !important;
+    min-height: 47px !important;  
+    border-radius: 20px;
+    color: #40ABFA;
+    font-size: 16px;
+    font-weight: 900;
+    padding: 10px 16px;
+    line-height: 140%;word-break: break-all;    border-color: #40ABFA;
+
+}
+.btn-blueOutlineLarge:hover{
+    background-color: #40ABFA !important;
+    min-height: 47px !important;  
+    border-radius: 20px;
+    color: white;
+}
+
+
+/* green normal */
+.btn-greenPrimaryNormal{
+    background-color: #76CC11 !important;
+    min-height: 36px !important;  
+    border-radius: 20px;
+    color: white;
+    font-size: 14px;
+    font-weight: 900;
+    line-height: 140%;word-break: break-all;
+}
+.btn-greenPrimaryNormal:hover{
+    background-color: #6FBB17 !important;
+    min-height: 36px !important;  
+    border-radius: 20px;
+    color: white;
+}
+
+
+/* blue */
+.btn-bluePrimaryNormal{
+    background-color: #40ABFA !important;
+    min-height: 36px !important;  
+    border-radius: 20px;
+    color: white;
+    font-size: 14px;
+    font-weight: 900;
+    line-height: 140%;word-break: break-all;
+}
+.btn-bluePrimaryNormal:hover{
+    background-color: #3B9FE7 !important;
+    min-height: 36px !important;  
+    border-radius: 20px;
+    color: white;
+}
+
+
+ /* top menu */
+ 
+/* outline large */
+.btn-greenTopMenuDekstop{
+    background-color: #ffffff !important;
+    min-height: 42px !important;  
+    border-radius: 20px;
+    color: #76CC11;
+    font-size: 16px;
+    font-weight: 900;
+  
+    line-height: 140%;word-break: break-all;
+    border-color: #76CC11;
+}
+.btn-greenTopMenuDekstop:hover{
+    background-color: #76CC11 !important;
+    min-height: 42px !important;  
+    border-radius: 20px;
+    color: white;
+}
+
+
+/* blue */
+.btn-blueTopMenuDekstop{
+    background-color: #ffffff !important;
+    min-height: 42px !important;  
+    border-radius: 20px;
+    color: #40ABFA;
+    font-size: 16px;
+    font-weight: 900;
+  
+    line-height: 140%;word-break: break-all;    border-color: #40ABFA;
+
+}
+.btn-blueTopMenuDekstop:hover{
+    background-color: #40ABFA !important;
+    min-height: 42px !important;  
+    border-radius: 20px;
+    color: white;
+}
+
+
+
+/* outline large */
+.btn-greenTopMenuMobile{
+    background-color: #ffffff !important;
+    min-height: 38px !important;  
+    border-radius: 20px;
+    color: #76CC11;
+    font-size: 16px;
+    font-weight: 900;
+  
+    line-height: 140%;word-break: break-all;
+    border-color: #76CC11;
+}
+.btn-greenTopMenuMobile:hover{
+    background-color: #76CC11 !important;
+    min-height: 38px !important;  
+    border-radius: 20px;
+    color: white;
+}
+
+
+/* blue */
+.btn-blueTopMenuMobile{
+    background-color: #ffffff !important;
+    min-height: 38px !important;  
+    border-radius: 20px;
+    color: #40ABFA;
+    font-size: 16px;
+    font-weight: 900;
+  
+    line-height: 140%;word-break: break-all;    border-color: #40ABFA;
+
+}
+.btn-blueTopMenuMobile:hover{
+    background-color: #40ABFA !important;
+    min-height: 38px !important;  
+    border-radius: 20px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
