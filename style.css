@@ -193,7 +193,9 @@ body {
 
 
 
-
+button {
+    cursor: pointer;
+}
 /* blue */
 .btn-blueTopMenuMobile{
     background-color: #ffffff !important;
