@@ -50,7 +50,7 @@ body {
     font-weight: 900;
    
     line-height: 140%;word-break: break-all;
-    border-color: #76CC11;
+    border: 1px solid #76CC11;
 }
 .btn-greenOutlineNormal:hover{
     background-color: #76CC11 !important;
@@ -67,7 +67,7 @@ body {
     font-size: 14px;
     font-weight: 900;
     line-height: 140%;word-break: break-all;
-    border-color: #40ABFA;
+    border: 1px solid #40ABFA;
 }
 .btn-blueOutlineNormal:hover{
     background-color: #40ABFA !important;
@@ -86,7 +86,7 @@ body {
     font-weight: 900;
     padding: 10px 16px;
     line-height: 140%;word-break: break-all;
-    border-color: #76CC11;
+    border: 1px solid #76CC11;
 }
 .btn-greenOutlineLarge:hover{
     background-color: #76CC11 !important;
@@ -105,7 +105,7 @@ body {
     font-size: 16px;
     font-weight: 900;
     padding: 10px 16px;
-    line-height: 140%;word-break: break-all;    border-color: #40ABFA;
+    line-height: 140%;word-break: break-all;    border: 1px solid #40ABFA;
 
 }
 .btn-blueOutlineLarge:hover{
@@ -166,7 +166,7 @@ body {
     font-weight: 900;
   
     line-height: 140%;word-break: break-all;
-    border-color: #76CC11;
+    border: 1px solid #76CC11;
 }
 .btn-greenTopMenu:hover{
     background-color: #76CC11 !important;
@@ -185,7 +185,7 @@ body {
     font-size: 16px;
     font-weight: 900;
   
-    line-height: 140%;word-break: break-all;    border-color: #40ABFA;
+    line-height: 140%;word-break: break-all;    border: 1px solid #40ABFA;
 
 }
 .btn-blueTopMenu:hover{
@@ -209,7 +209,7 @@ button {
     font-size: 16px;
     font-weight: 900;
   
-    line-height: 140%;word-break: break-all;    border-color: #40ABFA;
+    line-height: 140%;word-break: break-all;    border:1px solid  #40ABFA;
 
 }
 .btn-blueTopMenuMobile:hover{
@@ -473,7 +473,7 @@ code {
         font-weight: 900;
       
         line-height: 140%;word-break: break-all;
-        border-color: #76CC11;
+        border: 1px solid #76CC11;
     }
   
     
@@ -486,7 +486,7 @@ code {
         font-size: 14px;
         font-weight: 900;
       
-        line-height: 140%;word-break: break-all;    border-color: #40ABFA;
+        line-height: 140%;word-break: break-all;    border: 1px solid #40ABFA;
     
     }
   
